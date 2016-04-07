@@ -3,4 +3,4 @@ rvm:
  - 2.2
 install: bundle install
 script:
- - bundle exec rubocop
+ #- bundle exec rubocop
